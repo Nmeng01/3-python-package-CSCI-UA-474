@@ -1,0 +1,2 @@
+[console_scripts]
+pyRandomMedia = pyRandomMedia.__main__:main
